@@ -1,2 +1,2 @@
 # hello-world
-first one
+My name is Jonathan Madera. I know absolutely nothing about code. HELP!
